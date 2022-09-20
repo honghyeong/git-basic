@@ -1,3 +1,3 @@
 # git-basic
 
-- Hello, git
+- Goodbye, git
